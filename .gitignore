@@ -1,0 +1,11 @@
+.env
+*.env.local
+backend/target/
+*.class
+*.jar
+frontend/node_modules/
+frontend/build/
+.idea/
+*.iml
+.vscode/
+.DS_Store
